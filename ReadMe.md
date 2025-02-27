@@ -1,16 +1,15 @@
 # 💫 About Me
 👋 Hi, I’m Boburjon Murodov!  
 
-🚀 **Android Developer | Kotlin Enthusiast | Full-Stack Learner**  
+🚀 **Android and CMP Developer | Kotlin Enthusiast | Full-Stack Learner**  
 
 I’m an Android developer passionate about building efficient, scalable, and interactive applications. I specialize in **Jetpack Compose, Kotlin Multiplatform, and MVI**, crafting smooth user experiences. I also work with **Ktor** for backend development, integrating databases, WebSockets, and authentication systems.  
 
 🔥 **What I Do**  
-- **Android Development** (Jetpack Compose, Orbit MVI, Kotlin Multiplatform, XML)  
+- **Android Development** (Jetpack Compose, Kotlin Multiplatform, XML)  
 - **Flutter Development** (Dart, UI Components, State Management)  
 - **Backend Development** (Ktor, Exposed, WebSockets, Authentication)  
-- **Mobile UI/UX** (Animations, Custom Views, Voyager Navigation, Lottie)  
-- **Database & APIs** (Exposed, Firebase, SQLite, PostgreSQL, MongoDB)  
+- **Mobile UI/UX** (Animations, Custom Views)  
 - **Version Control** (Git, GitFlow)  
 
 ---
