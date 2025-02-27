@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👋 Hi, I’m Boburjon Murodov!  
 
 🚀 **Android Developer | Kotlin Enthusiast | Full-Stack Learner**  
