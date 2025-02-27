@@ -3,7 +3,7 @@
 
 🚀 **Android and CMP Developer | Kotlin Enthusiast | Full-Stack Learner**  
 
-I’m an Android developer passionate about building efficient, scalable, and interactive applications. I specialize in **Jetpack Compose, Kotlin Multiplatform, and MVI**, crafting smooth user experiences. I also work with **Ktor** for backend development, integrating databases, WebSockets, and authentication systems.  
+I’m an Android developer passionate about building efficient, scalable, and interactive applications. I specialize in **Jetpack Compose, Kotlin Multiplatform, and MVI**, crafting smooth user experiences. I am currently learning **Ktor** for backend development.  
 
 🔥 **What I Do**  
 - **Android Development** (Jetpack Compose, Kotlin Multiplatform, XML)  
