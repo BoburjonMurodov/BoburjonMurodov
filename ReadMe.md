@@ -7,7 +7,7 @@ I’m an Android developer passionate about building efficient, scalable, and in
 
 🔥 **What I Do**  
 - **Android Development** (Jetpack Compose, Kotlin Multiplatform, XML)  
-- **Flutter Development** (Dart, UI Components, State Management)  
+- **Flutter Development** (Dart, UI Components)  
 - **Backend Development** (Ktor, Exposed, WebSockets, Authentication)  
 - **Mobile UI/UX** (Animations, Custom Views)  
 - **Version Control** (Git, GitFlow)  
