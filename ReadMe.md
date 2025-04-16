@@ -1,7 +1,7 @@
 # 💫 About Me
 👋 Hi, I’m Boburjon Murodov!  
 
-🚀 **Android and CMP Developer | Kotlin Enthusiast | Full-Stack Learner**  
+🚀 **Android Developer | Kotlin Enthusiast
 
 ---
 
