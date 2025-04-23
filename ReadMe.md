@@ -1,7 +1,7 @@
 # 💫 About Me
 👋 Hi, I’m Boburjon Murodov!  
 
-🚀 **Android Developer | Kotlin Enthusiast **
+🚀 Android Developer | Kotlin Enthusiast 
 
 ---
 
